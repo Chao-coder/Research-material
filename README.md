@@ -6,6 +6,6 @@
 
 ## 2.papers
 | model      | 链接     | 类型     | 描述 |
-| ---------- | :-----------:  | :-----------: |
+| ---------- | :-----------:  | :-----------: | :-----------: |
 | XLNet     | [XLNet](https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf)     | pretrainning NLP    | combined the advantages of BERT and GPT |
 
